@@ -27,10 +27,9 @@ The following communication strategy is going to be used in the course:
  
 
 TODO:
- * Join slack now since that will be your way of asking questions!
-   https://coursepress.slack.com/messages/2dv610/ 
-   You have to register on slack to get access.
+ * Join slack now since that will be your way of asking questions! https://coursepress.slack.com/messages/2dv610/  You have to register on slack to get access.
  * Download and install Eclipse, JUnit 4.
+ * Join GitHub and create a repository. If you have no experience with git, read up on it!
 
 See you next week and I wish you an awesome course!
 

@@ -1,6 +1,6 @@
-Hi
+Hi,
 
-According to my list of possible students you have, or may apply for the course Software Testing, 2dv610. If you are not going to take the course, or cannot register for some reason, just ignore the rest of this email.
+According to my list of "possible students" you have, or may apply for the course Software Testing, 2dv610. If you are not going to take the course, or cannot register, just ignore the rest of this email.
 
 NOTE: You might have gotten this email even if you do not fulfill the prerequisites. If you can register, its fine.
 
